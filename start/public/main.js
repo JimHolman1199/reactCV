@@ -267,7 +267,7 @@ $(function(){
               "random": true,
               "anim": {
                 "enable": false,
-                "speed": 40,
+                "speed": 1,
                 "size_min": 0.1,
                 "sync": false
               }
@@ -308,7 +308,7 @@ $(function(){
             },
             "modes": {
               "grab": {
-                "distance": 400,
+                "distance": 100,
                 "line_linked": {
                   "opacity": 1
                 }
@@ -346,7 +346,7 @@ $(function(){
 
 /*Javascript Function for filtering portfolio items*/
 
-  let FilterContainer = $('#work .filtr-container');
+  let FilterContainer = $('#interest .filtr-container');
 
   if ( FilterContainer.length > 0 && !!$.prototype.isotope ) {
     let filterizd;
@@ -431,6 +431,3 @@ $(function(){
     }
 
 });
-
-
-
