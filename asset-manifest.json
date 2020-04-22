@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/reactCV/static/css/main.a7f79e8f.chunk.css",
+    "main.js": "/reactCV/static/js/main.dc40dd43.chunk.js",
+    "main.js.map": "/reactCV/static/js/main.dc40dd43.chunk.js.map",
+    "runtime-main.js": "/reactCV/static/js/runtime-main.9c42ad27.js",
+    "runtime-main.js.map": "/reactCV/static/js/runtime-main.9c42ad27.js.map",
+    "static/js/2.7f2b7997.chunk.js": "/reactCV/static/js/2.7f2b7997.chunk.js",
+    "static/js/2.7f2b7997.chunk.js.map": "/reactCV/static/js/2.7f2b7997.chunk.js.map",
+    "index.html": "/reactCV/index.html",
+    "precache-manifest.a668019897f93dfacae7e7845ab431d3.js": "/reactCV/precache-manifest.a668019897f93dfacae7e7845ab431d3.js",
+    "service-worker.js": "/reactCV/service-worker.js",
+    "static/css/main.a7f79e8f.chunk.css.map": "/reactCV/static/css/main.a7f79e8f.chunk.css.map",
+    "static/media/big-head.png": "/reactCV/static/media/big-head.1d0e244f.png",
+    "static/media/carpentry.jpg": "/reactCV/static/media/carpentry.c8c703bc.jpg",
+    "static/media/dinesh.png": "/reactCV/static/media/dinesh.f2281d6f.png",
+    "static/media/games.jpg": "/reactCV/static/media/games.b9a949e6.jpg",
+    "static/media/gavin.png": "/reactCV/static/media/gavin.adc6ab69.png",
+    "static/media/gilfoyle.png": "/reactCV/static/media/gilfoyle.2e274ee7.png",
+    "static/media/jared.png": "/reactCV/static/media/jared.64f71a9d.png",
+    "static/media/me.jpg": "/reactCV/static/media/me.4b37a594.jpg",
+    "static/media/monica.png": "/reactCV/static/media/monica.ea01bdce.png",
+    "static/media/music-davidGuetta.jpg": "/reactCV/static/media/music-davidGuetta.1d6e2aa2.jpg",
+    "static/media/music.jpg": "/reactCV/static/media/music.8c9271c9.jpg",
+    "static/media/programing.jpg": "/reactCV/static/media/programing.ba5f5b37.jpg",
+    "static/media/richard.png": "/reactCV/static/media/richard.c6230b11.png",
+    "static/media/travel-airplane.jpg": "/reactCV/static/media/travel-airplane.b5c658e8.jpg",
+    "static/media/App.css": "/reactCV/static/media/waterfall.2ccd604e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c42ad27.js",
+    "static/js/2.7f2b7997.chunk.js",
+    "static/css/main.a7f79e8f.chunk.css",
+    "static/js/main.dc40dd43.chunk.js"
+  ]
+}
