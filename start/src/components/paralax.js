@@ -1,5 +1,5 @@
 import React from 'react'
-import me from '../media/me.jpg'
+import me from '../media/me.png'
 
 export function Paralax(){
     return (

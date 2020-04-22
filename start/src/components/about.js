@@ -28,7 +28,7 @@ export function About(){
                                 <div className="col-sm-6">
                                     <ul>
                                         <li><span><i className="fa fa-calendar"></i>Years old: </span>24</li>
-                                        <li><span><i className="fa fa-phone"></i> Phone : </span>+380-93-11-99-688</li>
+                                        <li><span><i className="fa fa-phone"></i> Phone : </span><a href="tel:+380931199688">+380-93-11-99-688</a></li>
                                     </ul>
                                 </div>
                             </div>
